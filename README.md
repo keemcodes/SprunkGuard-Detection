@@ -1,6 +1,9 @@
 # SprunkGuard-Detection
 SprunkGuard Detection is a concept to detect a SprunkGuard Health Hackers in GTA SA:MP. I originally developed this code back in  2014.
 
+#### Yes, I'm aware of the absurd amount of commentation.
+Context: I used these snippets to apply for a scripter position of different SA:MP servers. I'd dev for random servers just to improve my coding knowledge and learn new things.
+
 ##### doc from 2014
 https://drive.google.com/file/d/0B47wsn4KVBAYZnM4b1VJcWNKeUU/edit?resourcekey=0-ARgk1NaDod4C-urci7bBCw
 ```
